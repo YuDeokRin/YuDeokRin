@@ -28,5 +28,5 @@ Here are some ideas to get you started:
 
 ### 🏆Trophy🏆
 
- <img src="https://github-profile-trophy.vercel.app/?username=YuDeokRin&theme=ryo-ma&title=Stars,Followers,Commits,PullRequest,Issues,Repositories" />
+ <img src="https://github-profile-trophy.vercel.app/?username=YuDeokRin&theme=gruvbox&title=Stars,Followers,Commits,PullRequest,Issues,Repositories" />
 </div>
