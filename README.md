@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YuDeokRin&theme=highcontrast&show_icons=true)
 
-### 🏆Trophy🏆
+<h3 align="center">🏆Trophy🏆 </h3>
 
- <img src="https://github-profile-trophy.vercel.app/?username=YuDeokRin&theme=gruvbox&title=Stars,Followers,Commits,PullRequest,Issues,Repositories" />
-</div>
+ <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=YuDeokRin&theme=gruvbox&title=Stars,Followers,Commits,PullRequest,Issues,Repositories" />
+</div> </p>
