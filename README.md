@@ -26,6 +26,29 @@ Here are some ideas to get you started:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YuDeokRin&theme=highcontrast&show_icons=true)
 
+<h3 align="center">📚 Technology Stack 📚</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/-Java-0A82FF?style=flat-square&logo=Java&logoColor=black" style="color:black"/>
+  <img src="https://img.shields.io/badge/-Spring-green?style=flat-square&logo=Spring&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-SpringBoot-18CCA8?style=flat-square&logo=SpringBoot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-MySQL-FF607F?style=flat-square&logo=MySQL&logoColor=black"/>
+  
+  <br>
+  
+  <img src="https://img.shields.io/badge/-Spring REST Docs-6DB33F?style=flat-square&logo=SpringRESTDocs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=Gradle&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=Hibernate&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white"/>
+  
+  <br>
+ 
+  <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat-square&logo=IntelliJIDEA&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Slack-4A154B?style=flat-square&logo=slack&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Notion-000000?style=flat-square&logo=notion&logoColor=white"/>
+</p>            
+
 <h3 align="center">🏆Trophy🏆 </h3>
 
  <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=YuDeokRin&theme=gruvbox&title=Stars,Followers,Commits,PullRequest,Issues,Repositories" />
