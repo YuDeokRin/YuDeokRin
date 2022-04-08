@@ -26,4 +26,7 @@ Here are some ideas to get you started:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YuDeokRin&theme=highcontrast&show_icons=true)
 
+### 🏆Trophy🏆
 
+ <img src="https://github-profile-trophy.vercel.app/?username=YuDeokRin&theme=ryo-ma&title=Stars,Followers,Commits,PullRequest,Issues,Repositories" />
+</div>
