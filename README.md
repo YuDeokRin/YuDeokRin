@@ -26,6 +26,10 @@ Here are some ideas to get you started:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YuDeokRin&theme=highcontrast&show_icons=true)
 
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ejrfls12)](https://solved.ac/ejrfls12/)
+
+
 <h3 align="center">📚 Technology Stack 📚</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/-Java-0A82FF?style=flat-square&logo=Java&logoColor=black" style="color:black"/>
