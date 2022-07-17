@@ -1,5 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=170&section=header&text=👽&fontSize=20)
 
+### ***"I'm not a great programmer, I'm just a good programmer with great habits."***
 
 
   ### Hi there 👋 
