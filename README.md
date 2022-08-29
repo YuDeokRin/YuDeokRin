@@ -3,7 +3,7 @@
 ### ***"I'm not a great programmer, I'm just a good programmer with great habits."***
 
 
-  ### Hi there 👋 
+Hello there&nbsp;<img width=40 src="https://cdn.jsdelivr.net/gh/Th3Wall/assets-cdn/PersonalGithubReadme/HandGreet.gif" width="35px" /><br/>
 <!--
 **YuDeokRin/YuDeokRin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
