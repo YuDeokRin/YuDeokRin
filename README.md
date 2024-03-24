@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=170&section=header&text=👽&fontSize=20)
 
-### ***"I'm not a great programmer, I'm just a good programmer with great habits."***
+### ***"I'm not a great programmer, I'm just a good programmer with great habits."***  — Kent Beck
 
 
 Hello there&nbsp;<img width=40 src="https://cdn.jsdelivr.net/gh/Th3Wall/assets-cdn/PersonalGithubReadme/HandGreet.gif" width="35px" /><br/>
